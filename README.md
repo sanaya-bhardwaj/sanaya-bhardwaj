@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sanayabhardwaj3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: black;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/" target="_blank" title="Visit LinkedIn Profile" style="font-size: 16px;"> My LinkedIn Profile</a>
 
