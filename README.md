@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaya-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="sanaya-bhardwaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanaya-bhardwaj" alt="sanaya-bhardwaj" /></a> </p>
-
 - 🔭 I’m currently working on **Comparison of User-Defined Data Sets on Different Data Structures**
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and DevOps**
