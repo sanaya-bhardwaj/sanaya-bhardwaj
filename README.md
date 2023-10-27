@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/" target="blank"><img align="center" src="https://cliply.co/clip/linkedin-icon/" alt="https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/" height="30" width="400" /></a>
+<a href="https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/" target="_blank" title="Visit LinkedIn Profile" style="font-size: 16px;"> My LinkedIn Profile</a>
+
+
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaya-bhardwaj&show_icons=true&locale=en&layout=compact" alt="sanaya-bhardwaj" /></p>
