@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&locale=en" alt="sanaya-bhardwaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaya-bhardwaj&" alt="sanaya-bhardwaj" /></p>
+
+[![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
