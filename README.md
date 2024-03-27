@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanaya-bhardwaj](https://github.com/sanaya-bhardwaj)
 
-- 📫 How to reach me **sanayabhardwaj3@gmail.com**
+- 📫 How to reach me **sanayabhardwaj004@gmail.com**
 
 <h3 align="left" style="color: black;">Connect with me:</h3>
 <p align="left">
