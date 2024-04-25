@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaya-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="sanaya-bhardwaj" /> </p>
 
-- 🔭 I’m currently working on **Comparison of User-Defined Data Sets on Different Data Structures**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and DevOps**
 
