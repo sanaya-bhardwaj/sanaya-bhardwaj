@@ -28,7 +28,7 @@
 
 [![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
 
-## GSSOC(24) Badges 🪶
+## GSSOC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -41,4 +41,4 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
 
-<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
+
