@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaya-bhardwaj&" alt="sanaya-bhardwaj" /></p>
 
-## Hacktoberfest'23 Badges
+## Hacktoberfest'23 Badges ✨
 [![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
 
 ## GSSOC'24 Badges 🪶
