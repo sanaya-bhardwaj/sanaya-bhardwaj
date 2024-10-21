@@ -29,6 +29,5 @@
 ## Hacktoberfest'23 Badges ✨
 [![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
 
-## GSSOC'24 Badges ##
-https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets
+
 
