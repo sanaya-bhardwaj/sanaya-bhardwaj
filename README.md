@@ -23,7 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaya-bhardwaj&show_icons=true&locale=en&layout=compact" alt="sanaya-bhardwaj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&locale=en" alt="sanaya-bhardwaj" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanaya-bhardwaj)](https://git.io/streak-stats)  /></p>
 
 ## Hacktoberfest'23 Badges ✨
 [![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
