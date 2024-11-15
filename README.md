@@ -24,6 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&locale=en" alt="sanaya-bhardwaj" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanaya-bhardwaj" alt="GitHub Streak" /></a>
+
 ## Hacktoberfest'23 Badges ✨
 [![An image of @sanayabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanayabhardwaj)](https://holopin.io/@sanayabhardwaj)
 
