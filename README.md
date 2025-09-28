@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!👋 Explore my GitHub galaxy!</h1>
+<h1 align="center">Hi There!👋 Explore my GitHub!</h1>
 <h3 align="center">Passionate B.Tech CSE student 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ebb05273-d7be-47c5-bd45-4914bf505e3d">
 
