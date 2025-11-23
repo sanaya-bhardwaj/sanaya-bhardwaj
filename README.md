@@ -1,11 +1,11 @@
 <h1 align="center">Hi There!👋 Explore my GitHub!</h1>
-<h3 align="center">Passionate B.Tech CSE student 🚀</h3>
+<h3 align="center">Passionate B.Tech CSE graduate 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ebb05273-d7be-47c5-bd45-4914bf505e3d">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaya-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="sanaya-bhardwaj" /> </p>
 
-- 🔭 I’m currently working as **Software Engineer**
+- 🔭 I’m working as **Software Engineer**
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and DevOps**
 
