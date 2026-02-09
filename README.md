@@ -11,7 +11,7 @@
 
 - 📂 Projects: [Browse my repositories](https://github.com/sanaya-bhardwaj)
 
-- 📫 How to reach me **sanayabhardwaj004@gmail.com**
+- 📩 How to reach me: **sanayabhardwaj004@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/)
 
