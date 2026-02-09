@@ -16,7 +16,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/)
 
 
-</p> 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&theme=default" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaya-bhardwaj&show_icons=true&locale=en&layout=compact" alt="sanaya-bhardwaj" /></p>
 
