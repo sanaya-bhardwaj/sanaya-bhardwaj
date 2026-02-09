@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaya-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="sanaya-bhardwaj" /> </p>
 
-- 🔭 I’m working as **Software Engineer**
+- 🔭 I’m working on **AI & full-stack projects**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm and DevOps**
+- 🌱 I’m currently learning **Data Structure & Algorithm and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanaya-bhardwaj](https://github.com/sanaya-bhardwaj)
 
