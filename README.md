@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/)
 
-# 🛠 Skills
+### 🛠 Skills
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
