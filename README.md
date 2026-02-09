@@ -15,16 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/)
 
-
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaya-bhardwaj&show_icons=true&locale=en&layout=compact" alt="sanaya-bhardwaj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&locale=en" alt="sanaya-bhardwaj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaya-bhardwaj&" alt="sanaya-bhardwaj" /></p>
 
 ## Hacktoberfest'23 Badges ✨
