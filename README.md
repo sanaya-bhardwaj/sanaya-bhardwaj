@@ -18,9 +18,8 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj&show_icons=true&theme=default" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=sanaya-bhardwaj)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaya-bhardwaj&show_icons=true&locale=en&layout=compact" alt="sanaya-bhardwaj" /></p>
 
