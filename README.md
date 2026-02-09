@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm and System Design**
 
-- 👨‍💻 [My projects](https://github.com/sanaya-bhardwaj)
+- 📂 Projects: [Browse my repositories](https://github.com/sanaya-bhardwaj)
 
 - 📫 How to reach me **sanayabhardwaj004@gmail.com**
 
