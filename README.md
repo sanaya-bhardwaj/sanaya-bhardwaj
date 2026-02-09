@@ -15,6 +15,8 @@
 
 <h4 align="left" style="color: black;">Connect with me:</h4>
 <p align="left"><a href="https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/" target="_blank" title="Visit LinkedIn Profile" style="font-size: 5px;"> My LinkedIn Profile</a>
+
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaya-bhardwaj-b7a253229/)
 
 
